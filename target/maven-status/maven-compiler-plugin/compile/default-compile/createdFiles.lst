@@ -1,0 +1,7 @@
+bigmatrix/Mapper.class
+bigmatrix/MatrixMultiply.class
+bigmatrix/Reducer.class
+smallmatrix/MatrixMultiply.class
+smallmatrix/Mapper.class
+smallmatrix/Reducer.class
+ReadFile.class
